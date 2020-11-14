@@ -17,6 +17,7 @@ namespace DevShop.UI.WebApp.Controllers
         public ProductsController(DevShopDbContext context)
         {
             _context = context;
+
         }
 
         // GET: Products
